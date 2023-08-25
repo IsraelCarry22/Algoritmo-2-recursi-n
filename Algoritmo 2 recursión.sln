@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmo 2 recursión", "Algoritmo 2 recursión\Algoritmo 2 recursión.vcxproj", "{E2E3C91E-E68D-402C-934F-19F3C27221CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Debug|x64.ActiveCfg = Debug|x64
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Debug|x64.Build.0 = Debug|x64
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Debug|x86.Build.0 = Debug|Win32
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Release|x64.ActiveCfg = Release|x64
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Release|x64.Build.0 = Release|x64
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Release|x86.ActiveCfg = Release|Win32
+		{E2E3C91E-E68D-402C-934F-19F3C27221CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E3D24B-2F86-4417-B93A-95835EA279F9}
+	EndGlobalSection
+EndGlobal
